@@ -14,10 +14,10 @@ The evaluations based on the current configurations performed on the algorithms 
 | Linear Regression | 0.70 |
 | Decision Tree - Classification With Decision Tree | 0.66 |
 | Decision Tree - Regression With Decision Tree | 0.69 |
-| Decision Tree - Classification With Random Forest | 0.73 |
-| Decision Tree - Regression With Random Forest | **0.83** |
-| Decision Tree - Classification With Extra-Tree | 0.75 |
-| Decision Tree - Regression With Extra-Tree | **0.83** |
+| Randomized Decision Tree - Classification With Random Forest | 0.73 |
+| Randomized Decision Tree - Regression With Random Forest | **0.83** |
+| Randomized Decision Tree - Classification With Extra-Tree | 0.75 |
+| Randomized Decision Tree - Regression With Extra-Tree | **0.83** |
 | Logistic Regression | 0.70 |
 | Support Vector Machine (SVM) - Support Vector Classifier (SVC) | 0.70 |
 | Support Vector Machine (SVM) - Nu Support Vector Classification (NuSVC) | 0.70 |
